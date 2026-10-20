@@ -1,4 +1,4 @@
-# cool-latex-cv-template
+# university-latex-cv-template
 
 A customizable LaTeX template for creating professional academic and technical CVs, featuring a clean layout and flexible styling.
 
