@@ -70,7 +70,9 @@ Edit the following commands in NAstyle.sty:
 \newcommand{\CVFooterImage}{images/footer.png}
 \newcommand{\CVWatermarkImage}{images/na_logo_background.png}
 
-
+University pictures
+You can edit the immagines directely in Canva, to get an inspire you can look at this for references:
+https://canva.link/9lxqtxd0bnu7ibg
 
 Colors and Branding
 
