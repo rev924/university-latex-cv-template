@@ -72,7 +72,7 @@ Edit the following commands in NAstyle.sty:
 
 University pictures
 
-You can edit the immagines directely in Canva, to get an inspire you can look at this for references:
+You can edit the immagines directely in Canva, to get an inspire you can look at this draft for references:
 https://canva.link/9lxqtxd0bnu7ibg
 
 Colors and Branding
